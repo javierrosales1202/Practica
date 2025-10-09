@@ -9,6 +9,3 @@ Un día \*Javier\*, un joven desarrollador, tuvo la idea de crear una tienda en 
 !\[Javier](./image/dev1.jpeg) <!-- Javier creando la idea -->
 
 
-
-Javier decidió invitar a \*Elizabeth\*, una diseñadora con gran talento, para ayudarle a construir la interfaz visual de la tienda y hacerla atractiva para los clientes.
-
